@@ -27,6 +27,17 @@ def normalize_label(s):
     return ''.join([c for c in s.lower() if c.isalnum()])
 
 
+# Split the string by comma, normalize each part, and return the strings that are contained in true_labels
+def normalize_label_set(s, true_labels):
+    if s == 'dummy':
+        return [s]
+    norm = {normalize_label(s) for s in s.split(',')}
+    norm = {s for s in norm if s in true_labels}
+    if len(norm) != 1:
+        print(f'{s=} {norm=}')
+    return norm
+
+
 # Given a folder, read all images in it into a list of numpy arrays
 def read_images_from_dir(dirname):
     images = []
@@ -49,7 +60,6 @@ def read_imagenet(file_npz):
     true_label_ind = images_file["labels"]
     print(f'{np.min(true_label_ind)=} {np.max(true_label_ind)=}')
     labels = np.array([normalize_label(imagenet_classes[i]) for i in true_label_ind])
-    print(f'{labels[:10]=}')
     print(f'{images_file["data"].shape=} {images_file["labels"].shape=}')
     images = np.transpose(images_file["data"].reshape((images_file["data"].shape[0], 3, 64, 64)), (0, 2, 3, 1))
     return images, labels

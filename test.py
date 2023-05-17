@@ -124,7 +124,7 @@ layer_name = "mixed4e"
 num_generations = 4
 num_samples = 6
 
-acts = get_activations_new(model, imagenet_preproc, "mixed4e", reducer=0)
+acts = get_activations_new(model, imagenet_preproc, "mixed4e", feature_ind=0)
 avg_act = np.mean(acts)
 vals_knock = get_activations_knockout(model, imagenet_preproc, "mixed4e", 0, avg_act,
                                       "softmax2", outer_batch_size=4096)
