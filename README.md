@@ -11,4 +11,4 @@ The project requires TensorFlow 2 and several other standard packages that can b
 - `analyze.py` takes in the data from both `run_experiment` and `run_survey` and produces the plot used in the report.
 
 ## Results
-I've run the experiment on the layer `mixed5a` of the InceptionV1 net. My importance measurements, vizualizations, and survey answers are stored in `data/neurons_complete` folder. The report with the analysis of the results is available [here](`report`).
+I've run the experiment on the layer `mixed5a` of the InceptionV1 net. My importance measurements, vizualizations, and survey answers are stored in `data/neurons_complete` folder. The report with the analysis of the results is available [here](`report/report.pdf`).
