@@ -1,0 +1,15 @@
+matplotlib==3.7.1
+numpy==1.23.5
+opencv-python==4.7.0.72
+pandas==2.0.1
+Pillow==9.4.0
+scipy==1.10.1
+seaborn==0.12.2
+sympy==1.12rc1
+tensorboard==2.11.2
+tensorflow==2.11.1
+tensorflow-addons==0.20.0
+tensorflow-estimator==2.11.0
+tensorflow-io-gcs-filesystem==0.32.0
+tqdm==4.65.0
+git+https://github.com/MikhailTerekhov/lucid@31280a49cb0f35f4f9f0043427a21f8145c97574#egg=lucid
