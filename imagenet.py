@@ -11,13 +11,6 @@ sys.path.append(str(Path(__file__).parent.resolve()))
 from imagenet_classes import imagenet_classes
 
 
-def spaced_concat(images, len_z):
-    zeros = np.zeros((images[0].shape[0], len_z, 3), dtype=np.uint8)
-    return np.concatenate(sum([[images[i], zeros] for i in range(images.shape[0] - 1)], [])
-                          + [images[images.shape[0] - 1, ...]],
-                          axis=1)
-
-
 def top_k_accuracy(top_l, true_l):
     return np.mean([1 if true_l[i] in top_l[i] else 0 for i in range(top_l.shape[0])])
 
