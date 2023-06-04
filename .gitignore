@@ -1,3 +1,11 @@
 .idea/**
 __pycache__/**
 output/**
+*.fls
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+*.aux
+*.fdb_latexmk
+*.out

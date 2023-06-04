@@ -1,0 +1,81 @@
+model,layer,neuron,question1,text_question,question3,question4,question5,question6
+InceptionV1,mixed5a,62,4,"hamsters,bugs,mammal faces",4,3,3,1
+InceptionV1,mixed5a,712,2,"fur, eyes,",1,4,1,1
+InceptionV1,mixed5a,812,2,"dog face,eyes,fish scales",1,4,3,1
+InceptionV1,mixed5a,384,3,"animal faces,eyes,monkeys,dogs",2,2,2,3
+InceptionV1,mixed5a,87,3,"clouds, fur",4,4,2,1
+InceptionV1,mixed5a,768,3,"black and white dogs, dog faces",4,4,4,1
+InceptionV1,mixed5a,217,2,"hamster faces, fish, incects",1,1,1,1
+InceptionV1,mixed5a,283,2,"bugs",1,2,1,1
+InceptionV1,mixed5a,769,5,"buildings, bridges, water, castles",5,5,4,2
+InceptionV1,mixed5a,603,2,"fur, water",1,2,2,1
+InceptionV1,mixed5a,754,2,"broccoli, fur, insect",1,4,1,1
+InceptionV1,mixed5a,6,4,"bulldog-like dogs, monkeys",4,4,2,1
+InceptionV1,mixed5a,527,2,"spiders",1,2,2,1
+InceptionV1,mixed5a,811,5,"birds, dog faces",4,4,2,1
+InceptionV1,mixed5a,485,1,"",1,4,4,3
+InceptionV1,mixed5a,447,2,"black dog faces, brown and white fur",1,3,3,3
+InceptionV1,mixed5a,581,3,"tractors, fur, wheels",1,2,1,1
+InceptionV1,mixed5a,153,2,"baby faces, reptiles, electronic devices",2,3,3,2
+InceptionV1,mixed5a,459,2,"eyes, black fur",1,2,1,1
+InceptionV1,mixed5a,359,1,"",1,2,3,2
+InceptionV1,mixed5a,39,2,"bugs, purple things",1,3,2,2
+InceptionV1,mixed5a,292,4,"chicken, legged animals",2,2,3,1
+InceptionV1,mixed5a,636,2,"feathers, building",1,4,1,1
+InceptionV1,mixed5a,744,4,"birds, spider, reptile faces",4,4,5,2
+InceptionV1,mixed5a,800,5,"cockroaches, bugs, ladybugs",5,5,2,1
+InceptionV1,mixed5a,1,5,"dog ears, white dog faces",4,4,2,1
+InceptionV1,mixed5a,774,5,"birds with a red dot",4,5,2,2
+InceptionV1,mixed5a,704,5,"tube, musical instrument, hands",5,5,3,2
+InceptionV1,mixed5a,336,3,"bird beaks, dof faces, flappy ears",1,3,3,2
+InceptionV1,mixed5a,143,2,"animal faces, white and brown fur",2,2,2,2
+InceptionV1,mixed5a,33,5,"black and brown dogs, dog fur",4,4,2,1
+InceptionV1,mixed5a,231,2,"dog faces, tongues",1,1,1,1
+InceptionV1,mixed5a,761,2,"some animal faces",2,4,3,1
+InceptionV1,mixed5a,816,4,"dpg faces, monkey faces",5,5,5,3
+InceptionV1,mixed5a,89,2,"dog snouts, fur",2,2,2,3
+InceptionV1,mixed5a,385,3,"ird heads",1,2,1,1
+InceptionV1,mixed5a,114,2,"cities, plungers",1,2,1,2
+InceptionV1,mixed5a,590,3,"hamster heads, football players, tiny birds",1,3,1,1
+InceptionV1,mixed5a,202,2,"fur",2,0,1,2
+InceptionV1,mixed5a,810,3,"kettles",5,5,1,1
+InceptionV1,mixed5a,148,3,"white dogs, cylindrical objects",4,3,4,2
+InceptionV1,mixed5a,446,4,"horns, bulls, dogs",2,2,2,3
+InceptionV1,mixed5a,750,0,"bird faces, cats, fluff",2,1,1,2
+InceptionV1,mixed5a,570,3,"parrots, tubes",1,3,3,2
+InceptionV1,mixed5a,617,1,"",1,3,2,2
+InceptionV1,mixed5a,616,2,"cups",1,2,1,2
+InceptionV1,mixed5a,803,5,"black and brown dogs, turtles, birds",5,5,2,1
+InceptionV1,mixed5a,789,4,"yellow birds, flowers",5,5,1,1
+InceptionV1,mixed5a,795,5,"brids, parrots",5,5,1,1
+InceptionV1,mixed5a,123,3,"insects, omuntains, dogs",3,3,3,3
+InceptionV1,mixed5a,472,3,"fur, husky, white dog",2,2,2,1
+InceptionV1,mixed5a,813,1,"",1,5,2,1
+InceptionV1,mixed5a,188,3,"dalmatin skin, fur, iron",3,2,3,3
+InceptionV1,mixed5a,791,4,"white and brown dogs",5,5,1,1
+InceptionV1,mixed5a,605,2,"furniture",1,2,3,2
+InceptionV1,mixed5a,46,0,"savannah, wild animals, greenery",5,4,2,2
+InceptionV1,mixed5a,53,5,"snake skin",2,1,3,4
+InceptionV1,mixed5a,106,4,"white and brown dogs, monkeys",5,5,2,1
+InceptionV1,mixed5a,97,4,"birds, animal faces",3,3,4,3
+InceptionV1,mixed5a,185,2,"dog faces, long legs",5,3,5,3
+InceptionV1,mixed5a,785,4,"electric devices, phones",5,3,5,2
+InceptionV1,mixed5a,329,2,"insects",3,3,2,2
+InceptionV1,mixed5a,139,4,"birds, screens, fur",5,5,2,1
+InceptionV1,mixed5a,141,3,"dog faces",1,2,2,2
+InceptionV1,mixed5a,301,2,"furry dogs, beaks",2,2,2,1
+InceptionV1,mixed5a,665,2,"dotted skin",2,2,1,2
+InceptionV1,mixed5a,720,5,"birds, long legs",5,5,1,1
+InceptionV1,mixed5a,67,3,"dog faces, monkey faces",5,5,2,1
+InceptionV1,mixed5a,140,4,"dogs, long legs",3,2,2,2
+InceptionV1,mixed5a,166,2,"horizontal metal devices",2,2,2,2
+InceptionV1,mixed5a,705,2,"dog faces",5,5,2,1
+InceptionV1,mixed5a,726,4,"aeroplanes, big fishes",4,4,3,4
+InceptionV1,mixed5a,395,2,"round objects, dogs",2,2,3,3
+InceptionV1,mixed5a,310,2,"fishes",1,2,1,2
+InceptionV1,mixed5a,718,2,"birds, eyes",2,2,1,2
+InceptionV1,mixed5a,692,1,"",1,1,1,1
+InceptionV1,mixed5a,775,4,"green birds, beaks",4,4,2,1
+InceptionV1,mixed5a,57,5,"snake skin",3,3,2,3
+InceptionV1,mixed5a,588,2,"dog fur, scorpions, bugs, humans",1,1,1,1
+InceptionV1,mixed5a,776,2,"dogs, birds",2,2,1,1
